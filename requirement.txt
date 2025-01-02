@@ -1,6 +1,5 @@
 tensorboard
 easydict
-numpy<1.24
 mxnet
 onnx
 scikit-learn
