@@ -1,5 +1,7 @@
 tensorboard
 easydict
-mxnet
+mxnet-mkl==1.6.0
 onnx
 scikit-learn
+opencv-python
+
